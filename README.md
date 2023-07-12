@@ -1,3 +1,3 @@
 # AND-operator-js
 
-This one is for study. I learned it from youtube. So that I'll understand about js. Even if tht's only for the basic one. Like you have to walk in a small step. Then
+This one is for study. I learned it from youtube. So that I'll understand about js. Even if tht's only for the basic one. Like you have to walk in a small step. Then, you will get used to it.
